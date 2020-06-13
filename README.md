@@ -1,2 +1,3 @@
 # hello-world
-My new repository
+
+A boy learning programming.
